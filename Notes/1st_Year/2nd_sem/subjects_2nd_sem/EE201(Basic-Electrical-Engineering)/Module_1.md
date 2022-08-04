@@ -87,10 +87,10 @@ In any electrical network, the algebraic Sum of the currents meeting at a Point 
 
 We have,
 
-$$I_{1}+(-I2)+(-I3)+(+I4)+(-I5)=0$$
-$$I1 + I4- I2- I3-  I5= 0$$
-$$or,I1 + I4 = I2+ I3+ I5$$
-∴ incoming currents = outgoing currents.
+$$I_{1}+(-I_{2})+(-I_{3})+(+I_{4})+(-I_{5})=0$$
+$$I_{1} + I_{4}- I_{2}- I_{3}-I_{5}= 0$$
+$$or,I_{1} + I_{4} = I_{2}+ I_{3}+ I_{5}$$
+$∴ incoming currents = outgoing currents.$
 
 For, node A
 
