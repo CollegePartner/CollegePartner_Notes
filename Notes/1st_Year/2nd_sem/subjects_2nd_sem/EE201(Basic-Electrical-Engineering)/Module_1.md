@@ -86,11 +86,12 @@ In any electrical network, the algebraic Sum of the currents meeting at a Point 
     Assuming the incoming currents to be Positive and the outgoing currents negative,
 
 We have,
-	 
-     I1+(-I2)+(-I3)+(+I4)+(-I5)=0
-	 I1 + I4- I2- I3-  I5= 0
-	or,I1 + I4 = I2+ I3+ I5
-	∴ incoming currents = outgoing currents.
+
+$$I_{1}+(-I2)+(-I3)+(+I4)+(-I5)=0$$
+$$I1 + I4- I2- I3-  I5= 0$$
+$$or,I1 + I4 = I2+ I3+ I5$$
+∴ incoming currents = outgoing currents.
+
 For, node A
 
     I1+(-I1)+(-I2)+(-I3)+(-I4)+(-I5)= 0.
@@ -135,4 +136,3 @@ let the three equation be as :-
 Those voltages on current which does not depend on any other quantity in the Circuit, are Called independent Sources.\
 **Dependent.**
 A dependent Voltage or current source is one which depends on some other quantity in the Circuit, which may be either a voltage on a current. Such a source denoted by  ♢ so as not to confuse with an independent source
-
