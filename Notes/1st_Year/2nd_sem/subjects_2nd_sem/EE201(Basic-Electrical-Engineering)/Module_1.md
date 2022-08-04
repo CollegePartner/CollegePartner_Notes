@@ -97,14 +97,14 @@ For, node A
     I1+(-I1)+(-I2)+(-I3)+(-I4)+(-I5)= 0.
     Or,I = I1 + I2 + I3 + I4 + I5.
 
-We can express the above conclusion thus: ∑I = 0..at a junction
+We can express the above conclusion thus: $∑I = 0$..at a junction
 
 2. **Kirchhoff's Mesh law or Voltage law (KVL).**
 
     The algebraic sum of the Products of currents and resistances in each
     of the Conductors in any closed path (or mesh) in a network plus the algebraic sum of the e.m.f.s in that path is Zero.
 
-        ∑IR + ∑emfs = 0.                             ____ round a mesh.
+      $\sum IR + \sum emfs = 0 \hspace{5em}$ ——— round a mesh.
 ---
 ***Solving equations with two unknown Variables.***
 
