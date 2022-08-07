@@ -103,14 +103,13 @@ We can express the above conclusion thus: ∑I = 0..at a junction
     The algebraic sum of the Products of currents and resistances in each
     of the Conductors in any closed path (or mesh) in a network plus the algebraic sum of the e.m.f.s in that path is Zero.
 
-        ∑IR + ∑emfs = 0.                             ____ round a mesh.
+    ∑IR + ∑emfs = 0.                             ____ round a mesh.
 ---
 ***Solving equations with two unknown Variables.***
 
- Let,
-
-ax + by = c\
-dx + ey = f
+ Let,\
+ $ ax + by = c $\
+$ dx + ey = f $
 
 Here, the two unknown are x and y, a, b, d and e one coefficients of
 these unknown whereas C and f are Constants.
@@ -125,9 +124,9 @@ these unknown whereas C and f are Constants.
 ### **Solving equations with three unknowns:-**
 let the three equation be as :-
 	    
-        ax +by+ cz= d
-	    ex + fy + yz=h
-	    Jx + ky+ lz=m
+$ ax +by+ cz= d $\
+$ ex + fy + yz=h $\
+$ Jx + ky+ lz=m $
  
 ---
 ### ***Independent and dependent Source-***
