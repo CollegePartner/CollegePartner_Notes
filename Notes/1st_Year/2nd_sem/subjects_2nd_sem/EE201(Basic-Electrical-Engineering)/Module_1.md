@@ -86,24 +86,29 @@ In any electrical network, the algebraic Sum of the currents meeting at a Point 
     Assuming the incoming currents to be Positive and the outgoing currents negative,
 
 We have,
-	 
-     I1+(-I2)+(-I3)+(+I4)+(-I5)=0
-	 I1 + I4- I2- I3-  I5= 0
-	or,I1 + I4 = I2+ I3+ I5
-	∴ incoming currents = outgoing currents.
+
+$$I_{1}+(-I_{2})+(-I_{3})+(+I_{4})+(-I_{5})=0$$
+$$I_{1} + I_{4}- I_{2}- I_{3}-I_{5}= 0$$
+$$or,I_{1} + I_{4} = I_{2}+ I_{3}+ I_{5}$$
+$∴ incoming currents = outgoing currents.$
+
 For, node A
 
     I1+(-I1)+(-I2)+(-I3)+(-I4)+(-I5)= 0.
     Or,I = I1 + I2 + I3 + I4 + I5.
 
-We can express the above conclusion thus: ∑I = 0..at a junction
+We can express the above conclusion thus: $∑I = 0$..at a junction
 
 2. **Kirchhoff's Mesh law or Voltage law (KVL).**
 
     The algebraic sum of the Products of currents and resistances in each
     of the Conductors in any closed path (or mesh) in a network plus the algebraic sum of the e.m.f.s in that path is Zero.
 
+<<<<<<< HEAD
     ∑IR + ∑emfs = 0.                             ____ round a mesh.
+=======
+      $\sum IR + \sum emfs = 0 \hspace{5em}$ ——— round a mesh.
+>>>>>>> f71ab7c19c1ff25190ee9e29f5242b38e8b31730
 ---
 ***Solving equations with two unknown Variables.***
 
@@ -134,4 +139,3 @@ $ Jx + ky+ lz=m $
 Those voltages on current which does not depend on any other quantity in the Circuit, are Called independent Sources.\
 **Dependent.**
 A dependent Voltage or current source is one which depends on some other quantity in the Circuit, which may be either a voltage on a current. Such a source denoted by  ♢ so as not to confuse with an independent source
-
