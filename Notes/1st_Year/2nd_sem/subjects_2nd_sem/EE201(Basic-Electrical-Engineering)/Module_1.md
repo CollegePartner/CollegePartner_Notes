@@ -87,10 +87,10 @@ In any electrical network, the algebraic Sum of the currents meeting at a Point 
 
 We have,
 
-$$I_{1}+(-I_{2})+(-I_{3})+(+I_{4})+(-I_{5})=0$$
-$$I_{1} + I_{4}- I_{2}- I_{3}-I_{5}= 0$$
-$$or,I_{1} + I_{4} = I_{2}+ I_{3}+ I_{5}$$
-$∴ incoming currents = outgoing currents.$
+$$I_1+(-I_2)+(-I_3)+(+I_4)+(-I_5)=0$$
+$$I_1 + I_4- I_2- I_3-I_5= 0$$
+$$or,I_1 + I_4 = I_2+ I_3+ I_5$$
+∴ incoming currents = outgoing currents.
 
 For, node A
 
@@ -104,11 +104,9 @@ We can express the above conclusion thus: $∑I = 0$..at a junction
     The algebraic sum of the Products of currents and resistances in each
     of the Conductors in any closed path (or mesh) in a network plus the algebraic sum of the e.m.f.s in that path is Zero.
 
-<<<<<<< HEAD
-    ∑IR + ∑emfs = 0.                             ____ round a mesh.
-=======
+
       $\sum IR + \sum emfs = 0 \hspace{5em}$ ——— round a mesh.
->>>>>>> f71ab7c19c1ff25190ee9e29f5242b38e8b31730
+
 ---
 ***Solving equations with two unknown Variables.***
 
