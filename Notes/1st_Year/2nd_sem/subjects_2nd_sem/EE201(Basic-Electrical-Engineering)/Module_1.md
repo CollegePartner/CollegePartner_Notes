@@ -105,15 +105,14 @@ We can express the above conclusion thus: $∑I = 0$..at a junction
     of the Conductors in any closed path (or mesh) in a network plus the algebraic sum of the e.m.f.s in that path is Zero.
 
 
-    $\sum IR + \sum emfs = 0 \hspace{5em}$ ——— round a mesh.
+      $\sum IR + \sum emfs = 0 \hspace{5em}$ ——— round a mesh.
 
 ---
 ***Solving equations with two unknown Variables.***
 
- Let,
-
-ax + by = c\
-dx + ey = f
+ Let,\
+ $ ax + by = c $\
+$ dx + ey = f $
 
 Here, the two unknown are x and y, a, b, d and e one coefficients of
 these unknown whereas C and f are Constants.
@@ -128,9 +127,9 @@ these unknown whereas C and f are Constants.
 ### **Solving equations with three unknowns:-**
 let the three equation be as :-
 	    
-        ax +by+ cz= d
-	    ex + fy + yz=h
-	    Jx + ky+ lz=m
+$ ax +by+ cz= d $\
+$ ex + fy + yz=h $\
+$ Jx + ky+ lz=m $
  
 ---
 ### ***Independent and dependent Source-***
