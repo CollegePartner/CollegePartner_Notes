@@ -39,12 +39,13 @@ Types of meeting:
     4. Date, time, venue.
     5. Name, signature and contact details.
 ---
-image
+## Format in a glance 
+![Format in a glance](format.png)
 
 ---
 ## SAMPLE NOTICE
-image
-
+![SAMPLE NOTICE](notice.png)
+             
 ---
 ## Notice writing Tips
 

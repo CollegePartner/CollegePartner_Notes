@@ -15,6 +15,10 @@ The different types of communication are:
 * Written communication (which includes letters, e-mails, social media, books, magazines, the Internet and other media)
 * Visual communication (maps, logos and other visualizations can all communicate messages.)
 ---
+## Communication types and channels
+![Communication types and channels](TYPE.png)
+
+---
 ## Difference between social and workplace communication
 
 - One of the first differences in business communication is that it is much more formal than social communication.
@@ -77,5 +81,8 @@ Employees from different cultures with different practices may work in an organi
 Employees will have different experiences, values, preferences and attitudes. These may lead to a variety of assumptions and can act as a communication barrier.
 
 ---
+## Other barriers to communication
+![Other barriers to communication](diagram.png)
 
 
+---
