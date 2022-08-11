@@ -355,6 +355,25 @@ according to Rayleigh they are said to be ***“Resolved”.***
 When the difference in wavelengths is so small that the central
 maxima corresponding to two wavelengths come still closer as
 shown in figure, then the resultant intensity curve is quite smooth
-without any dip. This curve is as if there is only one wavelength
-somewhat bigger and stronger. Hence according to Rayleigh the two
-wavelengths are ***“Not Resolved”.***
+without any dip. This curve is as if there is only one wavelength somewhat bigger and stronger. Hence according to Rayleigh the two wavelengths are ***“Not Resolved”.***
+
+############# image ############
+
+The resolving power of an optical instrument is its ability to separate the images of two objects, which are close together.  
+
+Some binary stars in the sky look like one single star when viewed with the naked eye, but the images of the two stars are clearly resolved when viewed with a telescope !!
+
+---
+## RESOLVING POWER OF GRATING AND MICROSCOPE
+
+**Resolving power** is the ability of an imaging device to separate (i.e., to see as distinct) points of an object that are located at a small angular distance or it is the power of an optical instrument to separate far away objects, that are close together, into individual images.
+
+**The resolving power of the grating** is defined as the ratio of the wavelength of any spectral line to the difference in the wavelength between this line and a neighboring  line such that the two lines appear to be just resolved.
+The resolving power of grating = $λ/dλ$
+
+**Resolving power of a microscope** is defined as the reciprocal of the least angular separation between the two close objects, so that their images appear just to be separated when seen through the microscope and is given by
+
+$d = 1.22λ/2sinα$
+
+$d$ is distance between two points, α is semiverticle angle of the cone of the rays by the objective of the microscope.
+

@@ -3,7 +3,7 @@
 - Communication is **the act of giving, receiving, and sharing information** -- in other words, talking or writing, and listening or reading. Good communicators listen carefully, speak or write clearly, and respect different opinions.
 ---
 ## Communication cycle.
-image
+![communication cycle](cycle.png)
 
 ---
 ## What are the types of communication? 

@@ -58,7 +58,7 @@ Standard Memorandums are divided into five main sections and two optional sectio
 
 ---
 ## Sample Memorandum Template
-![Sample Memorandum Template](https://assets.digitaloc]ean.com/articles/alligator/boo.svg "a title")
+![Sample Memorandum Template](memorandum.png)
 
 ---
 
