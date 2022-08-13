@@ -40,11 +40,11 @@ Types of meeting:
     5. Name, signature and contact details.
 ---
 ## Format in a glance 
-![Format in a glance](format.png)
+![Format in a glance](IMAGES/format.png)
 
 ---
 ## SAMPLE NOTICE
-![SAMPLE NOTICE](notice.png)
+![SAMPLE NOTICE](IMAGES/notice.png)
              
 ---
 ## Notice writing Tips
@@ -87,7 +87,7 @@ Types of meeting:
 
 ---
 ## FORMAT OF AGENDA
-![FORMAT OF AGENDA](agenda.png)
+![FORMAT OF AGENDA](IMAGES/agenda.png)
 
 ---
 
@@ -99,7 +99,7 @@ Types of meeting:
 ---
 ## DESIGN MEETING AGENDA
 
-![Design Meeting Agenda](agenda2.png)
+![Design Meeting Agenda](IMAGES/5.png)
 
 ---
 ## MINUTES TO A MEETING (MOM)
@@ -150,7 +150,7 @@ image
 
 ---
 # SAMPLE MOM
-![SAMPLE MOM](mom.png)
+![SAMPLE MOM](IMAGES/mom.png)
 
 ---
 ## SOME IMPORTANT POINTS

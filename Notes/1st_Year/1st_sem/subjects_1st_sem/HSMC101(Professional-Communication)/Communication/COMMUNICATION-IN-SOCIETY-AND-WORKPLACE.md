@@ -3,7 +3,7 @@
 - Communication is **the act of giving, receiving, and sharing information** -- in other words, talking or writing, and listening or reading. Good communicators listen carefully, speak or write clearly, and respect different opinions.
 ---
 ## Communication cycle.
-![communication cycle](cycle.png)
+![communication cycle](IMAGES/cycle.png)
 
 ---
 ## What are the types of communication? 
@@ -16,7 +16,7 @@ The different types of communication are:
 * Visual communication (maps, logos and other visualizations can all communicate messages.)
 ---
 ## Communication types and channels
-![Communication types and channels](TYPE.png)
+![Communication types and channels](IMAGES/TYPE.png)
 
 ---
 ## Difference between social and workplace communication
@@ -82,7 +82,7 @@ Employees will have different experiences, values, preferences and attitudes. Th
 
 ---
 ## Other barriers to communication
-![Other barriers to communication](diagram.png)
+![Other barriers to communication](IMAGES/diagram.png)
 
 
 ---

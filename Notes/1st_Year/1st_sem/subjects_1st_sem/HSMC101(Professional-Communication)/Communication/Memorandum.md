@@ -54,15 +54,15 @@ Standard Memorandums are divided into five main sections and two optional sectio
 - Discussion Segment (optional)
 ---
 ## Structure and Layout
-![Structure and Layout of memorandum](https://assets.digitaloc]ean.com/articles/alligator/boo.svg "a title")
+![Structure and Layout of memorandum](IMAGES/memorandum.png)
 
 ---
 ## Sample Memorandum Template
-![Sample Memorandum Template](memorandum.png)
+![Sample Memorandum Template](IMAGES/7.png)
 
 ---
 
-![Example of a Memorandum Template](https://assets.digitaloc]ean.com/articles/alligator/boo.svg "a title")
+![Example of a Memorandum Template](IMAGES/6.png)
 
 
 ---
