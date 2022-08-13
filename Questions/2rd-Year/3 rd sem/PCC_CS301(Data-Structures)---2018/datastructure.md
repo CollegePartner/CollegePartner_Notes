@@ -44,7 +44,7 @@
    **b) ab cd +-\***   
    **c) ab+ cd\***    
    **d)ab +cd\*-**
-   
+
    </br>
 
 6. Number of edges in a complete binary tree wit!: 16 leaf nodes is -   
@@ -146,6 +146,7 @@ $$
 
 ## *GROUP- C   ||  Long Answer Type Questions*
 #### 3x15=45 ( any 3 )
+---
 
 </br>
 
@@ -162,22 +163,31 @@ P, 9, r, d, h, m, l, 5, k, n
 (ii) Define Minimum Spanning tree (MS'1').  
 (iii) Find out the MST of the following graph using PRIM's AlgovPRIM's Algorithm.   
  ![Getting Started](images/datastruct-2018-8iii.png)  
-**(iv)** Explain the operation of breadth-first searen O uc arected graph given belów (vertex 'b' as source).   
+(iv) Explain the operation of breadth-first searen O uc arected graph given belów (vertex 'b' as source).   
     ![Getting Started](images/datastruct-2018-8iv.png)  
-**(v)** What is clique of an undirected graph?  
-1.  **(i)** What is the need for AVL trees?       
-    **(ii)** Insert the following keys in the order given,below to build them into an AVL tree: 
+(v) What is clique of an undirected graph? 
+
+</br>
+
+9.  (i) What is the need for AVL trees?       
+    (ii) Insert the following keys in the order given,below to build them into an AVL tree: 
     g, h, s, 1, e, m, t, u.
     Clearly mention the different rotations uaed' and balance factor of each node   
-    **(iii)** Write down the recursive function for the Tower of Hanoi problem. Draw the recursion  
-2.  Write short notes on any threé,of the following: 
+    (iii) Write down the recursive function for the Tower of Hanoi problem. Draw the recursion  
+
+</br>
+
+10. Write short notes on any threé,of the following: 
   
-    **(i)** Tail recursion   
-    **(ii)** B-Tree  
-    **(iii)** Radix sort  
-    **(iv)** Asymptotic Notation   
-    **(v)** BFS vs DFS  
-3.  Suppose-there are "n" children standing in a circle playing a game. Arbitrarily one of them is designated 
+    (i) Tail recursion   
+    (ii) B-Tree  
+    (iii) Radix sort  
+    (iv) Asymptotic Notation   
+    (v) BFS vs DFS 
+
+</br>
+ 
+11. Suppose-there are "n" children standing in a circle playing a game. Arbitrarily one of them is designated 
 as number 1 and others are numbered in clockwise fashion starting from the child with number 1. Then 
 they choOse a lucky number, say "m". Immediately after, they start counting from the child numbered 1 and the counting proceeds in a clockwise manner until the mth child is identified. Then the mth child is 
 eliminated from the circle; counting for next round begins from the child next to the eliminated one and 
