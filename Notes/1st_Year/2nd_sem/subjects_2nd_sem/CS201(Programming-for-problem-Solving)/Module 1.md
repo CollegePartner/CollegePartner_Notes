@@ -62,7 +62,7 @@ Perform the Following Steps:
 
 
 Example: Converting 15 to octal
-![no image available](IMAGES/Numbersys3.png)
+![no image available](IMAGES/numbersys3.png)
 
 ### Decimal to Hexadecimal
 
@@ -85,7 +85,7 @@ This is achieved by multiplying each digit by the base (2) raised to the respect
 Eg- Convert 101011 to decimal
 
 First give the numbers indexes, with the last bit getting the 0th Index
-![no image available](IMAGES/Numbersys5.png)
+![no image available](IMAGES/numbersys5.jpg.png)
 
 Now multiply each digit with 2 raised to the power of the index given.
 The sum of all the values is the answer.
