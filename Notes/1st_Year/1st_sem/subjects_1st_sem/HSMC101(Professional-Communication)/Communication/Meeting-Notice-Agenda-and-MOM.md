@@ -87,7 +87,7 @@ Types of meeting:
 
 ---
 ## FORMAT OF AGENDA
-image
+![FORMAT OF AGENDA](agenda.png)
 
 ---
 
@@ -97,7 +97,9 @@ image
 * If the meeting includes presentations, list the time allotted for each speaker. (Refer to the next slide)
 * Finally, indicate an approximate length for the meeting so that participants can plan the rest of their day.
 ---
-image
+## DESIGN MEETING AGENDA
+
+![Design Meeting Agenda](agenda2.png)
 
 ---
 ## MINUTES TO A MEETING (MOM)
@@ -148,7 +150,7 @@ image
 
 ---
 # SAMPLE MOM
-image
+![SAMPLE MOM](mom.png)
 
 ---
 ## SOME IMPORTANT POINTS

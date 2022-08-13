@@ -19,6 +19,8 @@ Through-
 8. Behavior
 ---
 # Process of Communication
+![Process of Communication](c.png)
+
 ---
 # Types of Communication
 
@@ -129,10 +131,10 @@ inform, persuade or motivate an audience.
 
 Communications that **flow from managers to employees** to inform, direct, coordinate, and evaluate employees.
 
----
-image to insert
 
----
+![Downward communication](1.png)
+
+
 ---
 
 ## FLOW OF COMMUNICATION IN FORMAL ORGANIZATION:
@@ -142,10 +144,7 @@ Communications that **flow from employees up to managers** to keep them aware of
 
 improved to create a climate of trust and respect.
 
----
-image to insert
-
----
+![Upward communication](2.png)
 
 ---
 
@@ -155,20 +154,16 @@ image to insert
 
  Communication that **takes place among employees on the same level** in the organization to save time and facilitate coordination.
 
- ---
-image to insert
+ ![Lateral (Horizontal) Communication](3.png)
 
----
 ---
 ## FLOW OF COMMUNICATION IN FORMAL ORGANIZATION: 
 ### 4. Diagonal Communication
 
 Communication that **cuts across both work areas and organizational levels** in the interest of efficiency and speed.
 
----
-image to insert
+![Diagonal Communication](4.png)
 
----
 ---
 ## Organizational Communication.
 

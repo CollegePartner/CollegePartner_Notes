@@ -57,8 +57,33 @@ On the basis of purpose, frequency or mode of reporting, reports can be classifi
 - Generally these reports are in a summarized form or in the layout of the prescribed form without an opinion or recommendation. 
 ---
 ## Oral or Written Reports
+**Oral Reports**
 
-.....................................
+* Immediate feedback is possible
+
+* Do not add to the permanent records of the organization as the information/facts can be denied
+
+* Audience needs to comprehend quickly as and when these are presented
+
+* May be encumbered with irrelevant facts and overlook important ones
+
+* Cannot be referred to again and again
+
+* Have less professional value
+
+**Written Reports**
+
+* Immediate feedback is not possible
+
+* Contribute to the permanent records of the organization
+
+* Audience can ponder over these reports and understand at their own pace
+
+* Are more accurate and precise as the writer will be careful in putting down the facts in writing.
+
+* Can be edited, reviewed, stored, and retrieved
+
+* Have more professional value
 
 ---
 ## Formats of Report
