@@ -162,9 +162,9 @@ P, 9, r, d, h, m, l, 5, k, n
 8. (i) What is a complete graph?  
 (ii) Define Minimum Spanning tree (MS'1').  
 (iii) Find out the MST of the following graph using PRIM's AlgovPRIM's Algorithm.   
- ![Getting Started](images/datastruct-2018-8iii.png)  
+ ![Getting Started](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Questions/2rd-Year/3%20rd%20sem/PCC_CS301(Data-Structures)---2018/images/datastruct-2018-8iii.png)  
 (iv) Explain the operation of breadth-first searen O uc arected graph given belów (vertex 'b' as source).   
-    ![Getting Started](images/datastruct-2018-8iv.png)  
+    ![Getting Started](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Questions/2rd-Year/3%20rd%20sem/PCC_CS301(Data-Structures)---2018/images/datastruct-2018-8iv.png)  
 (v) What is clique of an undirected graph? 
 
 </br>
