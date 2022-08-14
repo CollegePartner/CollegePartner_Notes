@@ -40,7 +40,7 @@ A computer A computer consists of five functionally independent main parts
 4. output
 5. control unit. 
 
-![fig1](images/fig1.png)
+![fig1](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/2nd_Year/3rd_sem/subjects_3rd_sem/PCC_CS302(Computer-organization-Architecture)/images/fig1.png)
 
 Input device accepts the coded information as source program i.e. high level language. This is either stored in the memory or immediately used by the processor to perform the desired operations. The program stored in the memory determines the processing steps. Basically the computer converts one source program to an object program. i.e. into machine language.
 
@@ -88,7 +88,7 @@ Transfers between the memory and the processor are started by sending the
 address of the memory location to be accessed to the memory unit and issuing the
 appropriate control signals. The data are then transferred to or from the memory. 
 
-![fig2](images/fig2.png)
+![fig2](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/2nd_Year/3rd_sem/subjects_3rd_sem/PCC_CS302(Computer-organization-Architecture)/images/fig2.png)
 
 The fig shows how memory & the processor can be connected. In addition to the
 ALU & the control circuitry, the processor contains a number of registers used for several different purposes. 
