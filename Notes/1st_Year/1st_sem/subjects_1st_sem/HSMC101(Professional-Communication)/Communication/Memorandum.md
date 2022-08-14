@@ -54,15 +54,15 @@ Standard Memorandums are divided into five main sections and two optional sectio
 - Discussion Segment (optional)
 ---
 ## Structure and Layout
-![Structure and Layout of memorandum](IMAGES/memorandum.png)
+![Structure and Layout of memorandum](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/memorandum.png)
 
 ---
 ## Sample Memorandum Template
-![Sample Memorandum Template](IMAGES/7.png)
+![Sample Memorandum Template](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/7.png)
 
 ---
 
-![Example of a Memorandum Template](IMAGES/6.png)
+![Example of a Memorandum Template](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/6.png)
 
 
 ---
