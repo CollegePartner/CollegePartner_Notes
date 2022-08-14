@@ -24,7 +24,7 @@ harassing coworkers
  5. ATTACHMENTS. 
 ---
 ## Layout of an Email
-![Example of Layout of an Email](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Example of Layout of an Email](https://i.pinimg.com/originals/54/17/ef/5417ef5b7fd94aa79687ad59d95d3b23.jpg)
 
 ---
 
