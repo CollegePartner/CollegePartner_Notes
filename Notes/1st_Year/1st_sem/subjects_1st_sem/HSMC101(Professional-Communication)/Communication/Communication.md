@@ -19,7 +19,7 @@ Through-
 8. Behavior
 ---
 # Process of Communication
-![Process of Communication](IMAGES/c.png)
+![Process of Communication](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/c.png)
 
 ---
 # Types of Communication
@@ -132,7 +132,7 @@ inform, persuade or motivate an audience.
 Communications that **flow from managers to employees** to inform, direct, coordinate, and evaluate employees.
 
 
-![Downward communication](IMAGES/1.png)
+![Downward communication](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/1.png)
 
 
 ---
@@ -144,7 +144,7 @@ Communications that **flow from employees up to managers** to keep them aware of
 
 improved to create a climate of trust and respect.
 
-![Upward communication](IMAGES/2.png)
+![Upward communication](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/2.png)
 
 ---
 
@@ -154,7 +154,7 @@ improved to create a climate of trust and respect.
 
  Communication that **takes place among employees on the same level** in the organization to save time and facilitate coordination.
 
- ![Lateral (Horizontal) Communication](IMAGES/3.png)
+ ![Lateral (Horizontal) Communication](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/3.png)
 
 ---
 ## FLOW OF COMMUNICATION IN FORMAL ORGANIZATION: 
@@ -162,7 +162,7 @@ improved to create a climate of trust and respect.
 
 Communication that **cuts across both work areas and organizational levels** in the interest of efficiency and speed.
 
-![Diagonal Communication](IMAGES/4.png)
+![Diagonal Communication](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/4.png)
 
 ---
 ## Organizational Communication.
