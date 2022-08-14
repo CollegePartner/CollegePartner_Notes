@@ -3,7 +3,7 @@
 Computers only understand the language of 0's and 1's, not the language of humans. Hence, every data input is converted into digital signals represented through strings of number. Even all the letters we type into our computer have a numeric value representation that is understood by our computers. This is known as ASCII.
 Therefore, in order to effectively communicate with the computer, it is essential to understand how the number system works in the computer.
 
-![no image available](IMAGES/Numbersys1.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys1.png)
 
 ## Binary Number System
 
@@ -49,7 +49,7 @@ Perform the Following Steps:
      Step 4: By placing all the remainders in order in such a way, the Least Significant Bit (LSB) at the top and Most Significant Bit (MSB) at the bottom, the required binary number will be obtained.
 
 Example: Converting 266 to binary
-![no image available](IMAGES/Numbersys2.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys2.png)
 
 ### Decimal to Octal
 
@@ -62,7 +62,7 @@ Perform the Following Steps:
 
 
 Example: Converting 15 to octal
-![no image available](IMAGES/numbersys3.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/numbersys3.png)
 
 ### Decimal to Hexadecimal
 
@@ -74,7 +74,7 @@ Perform the Following Steps:
      Step 4: By placing all the remainders in order in such a way, the Least Significant Bit (LSB) at the top and Most Significant Bit (MSB) at the bottom, the required binary number will be obtained.
 
 Example: Convert 44 to hexadecimal
-![no image available](IMAGES/Numbersys4.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys4.png)
 
 ## Any Other Base to Decimal
 
@@ -85,12 +85,11 @@ This is achieved by multiplying each digit by the base (2) raised to the respect
 Eg- Convert 101011 to decimal
 
 First give the numbers indexes, with the last bit getting the 0th Index
-![no image available](IMAGES/numbersys5.jpg.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/numbersys5.jpg.png)
 
 Now multiply each digit with 2 raised to the power of the index given.
 The sum of all the values is the answer.
-![no image available](IMAGES/Numbersys6.png)
-
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys6.png)
 ### Octal to Decimal
 
           This is achieved by multiplying each digit by the base (8) raised to the respective power depending upon the position of that digit in the number. The sum of all these values obtained for each digit gives the equivalent value of the given binary number in the decimal system.
@@ -100,7 +99,7 @@ Eg- Convert 791 to decimal
 1.Give the number indexes as done previously
 2.Multiple each digit with 8 raised to the power of Index
 3.Sum of all values is the answer
-![no image available](IMAGES/Numbersys7.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys7.png)
 
 ### Hexadecimal to Decimal
 
@@ -112,7 +111,7 @@ Eg- Convert A35 to decimal
                 2.   Multiple each digit with 16 raised to the power of Index
                 3.   Sum of all values is the answer
 
-![no image available](IMAGES/Numbersys8.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys8.png)
 
 ### Converting from any Base to Any other base
 
@@ -125,14 +124,14 @@ You now know how to convert any base to decimal and also how to convert decimal 
 ### Binary Addition
 
 Try using these 4 rules for binary addition:
-![no image available](IMAGES/Numbersys9.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys9.png)
 
 Example:
 
 1011101 +
 1100100 +
 0101011
-![no image available](IMAGES/Numbersys10.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys10.png)
 
 ### Octal Addition:
 
@@ -141,7 +140,7 @@ Just like decimal addition, but with 0-7 as digits. This would mean that in octa
 
 Example:
 574 + 334
-![no image available](IMAGES/Numbersys11.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys11.png)
 
 ### Hexadecimal Addition:
 
@@ -149,7 +148,7 @@ Just like decimal addition, but with 0-F as digits. This would mean that in octa
 F+1=10
 
 Example: A3A + 519
-![no image available](IMAGES/Numbersys12.png)
+![no image available](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/2nd_sem/subjects_2nd_sem/CS201(Programming-for-problem-Solving)/IMAGES/Numbersys12.png)
 
 ### R’s Complement :
 
