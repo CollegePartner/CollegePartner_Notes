@@ -40,11 +40,11 @@ Types of meeting:
     5. Name, signature and contact details.
 ---
 ## Format in a glance 
-![Format in a glance](IMAGES/format.png)
+![Format in a glance](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/format.png)
 
 ---
 ## SAMPLE NOTICE
-![SAMPLE NOTICE](IMAGES/notice.png)
+![SAMPLE NOTICE](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/notice.png)
              
 ---
 ## Notice writing Tips
@@ -87,7 +87,7 @@ Types of meeting:
 
 ---
 ## FORMAT OF AGENDA
-![FORMAT OF AGENDA](IMAGES/agenda.png)
+![FORMAT OF AGENDA](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/agenda.png)
 
 ---
 
@@ -99,7 +99,7 @@ Types of meeting:
 ---
 ## DESIGN MEETING AGENDA
 
-![Design Meeting Agenda](IMAGES/5.png)
+![Design Meeting Agenda](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/5.png)
 
 ---
 ## MINUTES TO A MEETING (MOM)
@@ -150,7 +150,7 @@ image
 
 ---
 # SAMPLE MOM
-![SAMPLE MOM](IMAGES/mom.png)
+![SAMPLE MOM](https://raw.githubusercontent.com/CollegePartner/CollegePartner_Notes/main/Notes/1st_Year/1st_sem/subjects_1st_sem/HSMC101(Professional-Communication)/Communication/IMAGES/mom.png)
 
 ---
 ## SOME IMPORTANT POINTS
