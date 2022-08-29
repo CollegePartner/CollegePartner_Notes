@@ -81,16 +81,75 @@ all input and output transfers. These components are called **interface units** 
 
 In addition, each device may have its own controller that supervises the operations of the particular mechanism in the peripheral.
 
+## I/O Bus and Interface Modules
+A typical communication link between the processor and several peripherals
+is shown in this ***fig:- Module_5(1)***
+![Connection of I/O bus to input-output devices.](Images/1.png)
+
+The I/O bus consists of data lines, address lines, and
+control lines.
+
+The magnetic disk, printer, and terminal are employed in practically any general-purpose computer.The magnetic tape is used in some computers for backup storage.
+
+Each peripheral device has associated with it an interface unit. Each interface decodes the address and control received from the I/O bus, interprets them for the peripheral, and provides signals for the periphe.ral controller.
+
+It also synchronizes the data flow and supervises the transfer between peripheral and processor. Each peripheral has its own controller that operates the particular electromechanical device.
+
+For example, the printer controUer controls the paper motion, the print timing, and the selection of printing characters. A controUer may be housed separately or may be physically integrated with the peripheral.
+
+The I/O bus from the processor is attached to all peripheral interfaces. To communicate with a particular device, the processor places a device address on the address lines. Each interface attached to the I/O bus contains an address decoder that monitors the address lines. When the interface detects its own address, it activates the path between the bus lines and the device that it
+controls. All peripherals whose address does not correspond to the address in the bus are disabled by their interface.
+### **I/O command**
+At the same time that the address is made avallable In the address lines, the processor provides a function code in the control lines. The *interface* selected responds to the function code and proceeds to execute it. The function code is referred to as an ***I/O command*** and is in essence an instruction that is executed in the interface and its attached peripheral unit. The interpretation of the command depends on the peripheral that the processor is addressing. There are four types of commands that an interface may receive. They are classified as control, status, data output, and data input.
+### **Control command**
+A ***control command*** is issued to activate the peripheral and to inform it what
+to do. For example, a magnetic tape unit may be instructed to backspace the
+tape by one record, to rewind the tape, or to start the tape moving in the
+forward direction. The particular control command issued depends on the
+peripheral, and each peripheral receives its own distinguished sequence of
+control commands, depending on its mode of operation.
+### **Status command**
+A ***status command*** is used to test various status conditions in the interface
+and the peripheral. For example, the computer may wish to check the status
+of the peripheral before a transfer is initiated. During the transfer, one or more
+errors may occur which are detected by the interface. These errors are designated
+by setting bits in a status register that the processor can read at certain
+intervals.
+### **Output data**
+A ***data output command*** causes the interface to respond by transferring data
+from the bus into one of its registers. Consider an example with a tape unit.
+The computer starts the tape moving by issuing a control command. The processor then monitors the status of the tape by means of a status command. When the tape is in the correct position, the processor issues a data output command. The interface responds to the address and command and transfers the information from the data lines in the bus to its buffer register. The interface then communicates with the tape controller and sends the data to be stored on tape.
+### **Input data**
+The ***data input command*** is the opposite of the data output. In this case the
+interface receives an item of data from the peripheral and places it in its buffer
+register. The processor checks if data are available by means of a status command
+and then issues a data input command. The interface places the data on
+the data lines, where they are accepted by the processor.
 
 
-# to be continued.......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 # Modes of Transfer
 Binary information received from an external device is usually stored in memory for later processing. Information transferred from the central computer into an external device originates in the memory unit. The CPU merely executes the 110 instructions and may accept the data temporarily, but the ultimate source or destination is the memory unit. Data transfer between the central computer and 110 devices may be handled in a variety of modes. Some modes use the CPU as an intermediate path; others transfer the data directly to and from the memory unit. Data transfer to and from peripherals may be handled in one of three possible modes:
 
-1. Programmed 110
-2. Interrupt-initiated 110
+1. Programmed I/O
+2. Interrupt-initiated I/O
 3. Direct memory access (DMA)
 
 ## Programmed I/O
@@ -151,8 +210,58 @@ In such a system, the computer is divided into three separate modules: the
 * The lOP.
 
 
+---
+## Asynchronous Data Transfer
+
+Asynchronous data transfer between two independent units requires that control signals be transmitted between the communicating units to indicate the time at which data is being transmitted.
+
+### **Strobe**
+One way of achieving this is by means of a strobe pulse supplied by one of the units to indicate to the other unit when the transfer has to occur.
+### **Handshaking**
+Another method commonly used is to accompany each data item being transferred with a control signal that indicates the presence of data in the bus. The unit receiving the data item responds with another control signal to acknowledge receipt of the data. This type of agreement between two independent units is referred to as lumdshaking .
 
 
+The **strobe pulse** method and the **handshaking** method of asynchronous data transfer are not restricted to VO transfers. In fact, they are used extensively on numerous occasions requiring the transfer of data between two independent units.
+
+
+In the general case we consider the transmitting unit as the source
+and the receiving unit as the destination. *For example*, the CPU is the source unit during an output or a write transfer and it is the destination unit during an input or a read transfer.
+
+It is customary to specify the asynchronous transfer between two independent units by means of a timing diagram that shows the timing relationship that must exist between the control signals and the data in the buses.
+
+The sequence of control during an asynchronous transfer depends on whether the transfer is initiated by the source or by the destination unit.
+
+
+## Strobe Control
+The strobe control method of asynchronous data transfer employs a single
+control line to time each transfer. The strobe may be activated by either the source or the destination unit.
+![source-initiated transfer](Images/2.png)
+
+This ***fig:- Module_5(2)*** shows a source-initiated transfer.
+
+The data bus carries the binary information from source unit to the destination unit. Typically, the bus has multiple lines to transfer an entire byte or word. The strobe is a single line that informs the destination unit when a valid data word is available in the bus.
+
+This ***fig:- Module_5(3)*** shows a data transfer initiated by the destination unit.
+![](Images/3.png)
+
+In this case the destination unit activates the strobe pulse, informing the source to provide the data. The source unit responds by placing the requested binary information on the data bus. The data must be valid and remain in the bus long enough for the destination unit to accept it.
+
+The falling edge of the strobe pulse can be used again to trigger a destination register.
+
+The destination unit, then disables the strobe. The source removes the data from the bus after a predetermined time interval.
+
+In many computers the strobe pulse is actually controlled by the clock pulses in the CPU.
+
+The CPU is always in control of the buses and informs the external units how to transfer data. *For example*, the strobe of ***fig:- Module_5(2)*** could be a memory-write control signal from the CPU to a memory unit.
+
+The source, being the CPU, places a word on the data bus and informs the memory unit, which is the destination, that this is a write operation.
+
+Similarly, the strobe of ***fig:- Module_5(3)*** could be a memory-read control signal from the CPU to a memory unit.
+
+The destination, the CPU, initiates the read operation to inform the memory, which is the source, to place a selected word into the data bus.
+
+The transfer of data between the CPU and an interface unit is similar to
+the strobe transfer just described. Data transfer between an interface and an I/O device is commonly controlled by a set of handshaking lines.
 
 
 
